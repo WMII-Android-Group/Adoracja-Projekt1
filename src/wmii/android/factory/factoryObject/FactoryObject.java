@@ -12,6 +12,10 @@ public class FactoryObject {
 			 return new iFactoryXML();
 		 } else if("DB".equals(criteria) ) {
 			 return new iFactoryDB();
+		 }else if("JS".equals(criteria) ) {
+			 return new iFactoryDB();
+		 }else if("HTML".equals(criteria) ) {
+			 return new iFactoryDB();
 		 }
 			 
 		 throw new IllegalArgumentException();

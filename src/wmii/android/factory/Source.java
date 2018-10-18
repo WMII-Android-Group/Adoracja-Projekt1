@@ -5,8 +5,9 @@ import wmii.android.factory.factoryObject.iFactory.iFactoryOB;
 
 public class Source {
 
-	public static void main(String[] args) {
-		iFactoryOB instance = FactoryObject.getObject("XML");
+	public static void main(String[] args) 
+	{
+		
 
 	}
 

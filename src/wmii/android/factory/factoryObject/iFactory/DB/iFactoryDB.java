@@ -4,7 +4,8 @@ import wmii.android.factory.factoryObject.iFactory.iFactoryOB;
 
 public class iFactoryDB implements iFactoryOB {
 	
-	public iFactoryDB() {
+	public iFactoryDB() 
+	{
 		
 	}
 	

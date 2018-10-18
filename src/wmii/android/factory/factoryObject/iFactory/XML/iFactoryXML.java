@@ -4,7 +4,8 @@ import wmii.android.factory.factoryObject.iFactory.iFactoryOB;
 
 public class iFactoryXML implements iFactoryOB {
 	
-	public iFactoryXML() {
+	public iFactoryXML() 
+	{
 		
 	}
 }
